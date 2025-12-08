@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clre20&layout=compact&theme=onedark&locale=zh-tw&card_width=490)](https://github.com/clre20)
 
 [![My Stats](https://web.clre20.ggff.net/api/github_stats?username=clre20)](https://github.com/clre20)
-[![My Stats](https://web.clre20.ggff.net/api/github_stats?username=clre20)](https://github.com/clre20)
+![](https://web.clre20.ggff.net/api/github_stats?username=clre20&v=1)
